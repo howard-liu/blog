@@ -1,0 +1,40 @@
+.header-container {
+  position: absolute;
+  width: 80vw;
+  left: 10vw;
+  top: 0;
+  height: 125px;
+  background-color: white;
+  z-index: 3;
+}
+
+.header-gradient {
+  position: absolute;
+  width: 80vw;
+  top: 0;
+  height: 40px;
+  background-image: linear-gradient(rgba(0, 0, 70, 0.1), rgba(255, 0, 0, 0));
+}
+
+.header-placeholder {
+  width: 80vw;
+  left: 10vw;
+  top: 0;
+  height: 125px;
+}
+
+@media (max-width: 576px) {
+  .header-container {
+    width: 100vw;
+    left: 0;
+  }
+  .header-gradient {
+    width: 100vw;
+    left: 0;
+  }
+  .header-placeholder {
+    width: 100vw;
+    left: 0;
+    height: 165px;
+  }
+}
