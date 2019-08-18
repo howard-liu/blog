@@ -8,8 +8,8 @@ function About() {
     <div classname="mb-3 mb-sm-0">
       <div style={{ float: "left" }}>
         <ProgressiveImage
-          preview="/images/think-small.jpg"
-          image="/images/think-large.jpg"
+          preview="./images/think-small.jpg"
+          image="./images/think-large.jpg"
           className="about-image mr-0 mr-sm-3 mb-2 mb-sm-1"
           alt="Howard"
         />

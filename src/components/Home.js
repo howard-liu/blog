@@ -8,8 +8,8 @@ function Home() {
     <div>
       <div className="home-image-container">
         <ProgressiveImage
-          preview="/images/header-small.jpg"
-          image="/images/header-large.jpg"
+          preview="./images/header-small.jpg"
+          image="./images/header-large.jpg"
           className="home-image"
           alt="Home"
         />

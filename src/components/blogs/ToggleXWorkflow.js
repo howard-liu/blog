@@ -6,8 +6,8 @@ function ToggleXWorkflow() {
   return (
     <div>
       <ProgressiveImage
-        preview="/images/togglexworkflow-small.jpg"
-        image="/images/togglexworkflow-large.png"
+        preview="./images/togglexworkflow-small.jpg"
+        image="./images/togglexworkflow-large.png"
         className="col-12"
         alt="Toggle x Workflow"
       />

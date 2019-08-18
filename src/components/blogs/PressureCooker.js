@@ -5,8 +5,8 @@ function PressureCooker() {
   return (
     <div>
       <ProgressiveImage
-        preview="/images/pressurecooker-small.jpg"
-        image="/images/pressurecooker-large.jpg"
+        preview="./images/pressurecooker-small.jpg"
+        image="./images/pressurecooker-large.jpg"
         className="col-12"
         alt="Pressure Cooker"
       />
