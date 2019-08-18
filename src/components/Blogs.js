@@ -12,8 +12,8 @@ function Blogs() {
             <div className="">
               <h4>Pressure Cooker</h4>
               <ProgressiveImage
-                preview="images/pressurecooker-small.jpg"
-                image="images/pressurecooker-large.jpg"
+                preview="/images/pressurecooker-small.jpg"
+                image="/images/pressurecooker-large.jpg"
                 className="col-12"
                 alt="Pressure Cooker"
               />
@@ -25,8 +25,8 @@ function Blogs() {
             <div>
               <h4>Toggle x Workflow</h4>
               <ProgressiveImage
-                preview="images/togglexworkflow-small.png"
-                image="images/togglexworkflow-large.png"
+                preview="/images/togglexworkflow-small.jpg"
+                image="/images/togglexworkflow-large.png"
                 className="col-12"
                 alt="Toggle x Workflow"
               />
@@ -38,8 +38,8 @@ function Blogs() {
             <div>
               <h4>Euro Truck Simulator 2</h4>
               <ProgressiveImage
-                preview="images/ets2-small.png"
-                image="images/ets2-large.png"
+                preview="/images/ets2-small.jpg"
+                image="/images/ets2-large.png"
                 className="col-12"
                 alt="Euro Truck Simulator 2"
               />

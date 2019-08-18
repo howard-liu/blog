@@ -6,8 +6,8 @@ function Ets2() {
   return (
     <div>
       <ProgressiveImage
-        preview="images/ets2-small.png"
-        image="images/ets2-large.png"
+        preview="/images/ets2-small.jpg"
+        image="/images/ets2-large.png"
         className="col-12"
         alt="Euro Truck Simulator 2"
       />
