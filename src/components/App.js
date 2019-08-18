@@ -14,7 +14,7 @@ function App() {
   return (
     <div className="app">
       <div className="app-borders">
-        <HashRouter>
+        <HashRouter basename="/">
           <Header />
           <Route exact path="/" component={Home} />
           <Route path="/about" component={About} />
