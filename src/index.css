@@ -27,6 +27,11 @@ h3[id="header"] {
   font-size: 80%;
 }
 
+.time {
+  color: grey;
+  font-size: 90%;
+}
+
 a.black-link {
   color: black;
 }

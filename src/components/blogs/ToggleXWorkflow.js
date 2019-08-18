@@ -12,6 +12,7 @@ function ToggleXWorkflow() {
         alt="Toggle x Workflow"
       />
       <h2 id="togglexworkflow">Toggle x Workflow</h2>
+      <p className="time">October 12, 2017</p>
       <p>
         Today I have started time tracking with the use of Toggl, with
         assistance from the Apple app Workflow. I will track what I’m doing

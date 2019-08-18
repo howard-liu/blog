@@ -10,9 +10,10 @@ function PressureCooker() {
         className="col-12"
         alt="Pressure Cooker"
       />
-      <h2 id="pressurecooker">Pressure cooker</h2>I am stressed. But not at all
-      in a bad way. I have come to terms with it: I am going to fail. Well I
-      already have failed. All I can do now is to act fast and do it well.
+      <h2 id="pressurecooker">Pressure cooker</h2>
+      <p className="time">March 7, 2018</p>I am stressed. But not at all in a
+      bad way. I have come to terms with it: I am going to fail. Well I already
+      have failed. All I can do now is to act fast and do it well.
       <h3 id="timeforchange">Time for change</h3>
       So I am pretty bad at uni. The lack of direction has really pulled my
       grade down for the past 2 years. With the start of this year, I have

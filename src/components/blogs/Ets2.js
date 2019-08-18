@@ -12,6 +12,7 @@ function Ets2() {
         alt="Euro Truck Simulator 2"
       />
       <h2 id="ets2">Euro Truck Simulator 2</h2>
+      <p className="time">October 10, 2017</p>
       You drive a fake a truck, to earn fake money, to relax after doing real
       work. Makes sense?
       <h3 id="inspiration">Inspiration</h3>I think I always knew about the
