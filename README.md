@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # Howard's Blog
 
 Created to host my blog, hosted on https://howard-liu.github.io/blog/
