@@ -11,6 +11,7 @@ function Home() {
           preview="images/header-small.jpg"
           image="images/header-large.jpg"
           className="home-image"
+          alt="Home"
         />
         <div className="home-image-text">
           <h1>

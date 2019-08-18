@@ -9,6 +9,7 @@ function ToggleXWorkflow() {
         preview="images/togglexworkflow-small.png"
         image="images/togglexworkflow-large.png"
         className="col-12"
+        alt="Toggle x Workflow"
       />
       <h2 id="togglexworkflow">Toggle x Workflow</h2>
       <p>

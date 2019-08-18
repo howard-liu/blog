@@ -9,6 +9,7 @@ function Ets2() {
         preview="images/ets2-small.png"
         image="images/ets2-large.png"
         className="col-12"
+        alt="Euro Truck Simulator 2"
       />
       <h2 id="ets2">Euro Truck Simulator 2</h2>
       You drive a fake a truck, to earn fake money, to relax after doing real

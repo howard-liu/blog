@@ -8,6 +8,7 @@ function PressureCooker() {
         preview="images/pressurecooker-small.jpg"
         image="images/pressurecooker-large.jpg"
         className="col-12"
+        alt="Pressure Cooker"
       />
       <h2 id="pressurecooker">Pressure cooker</h2>I am stressed. But not at all
       in a bad way. I have come to terms with it: I am going to fail. Well I

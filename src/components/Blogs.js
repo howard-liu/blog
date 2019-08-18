@@ -15,6 +15,7 @@ function Blogs() {
                 preview="images/pressurecooker-small.jpg"
                 image="images/pressurecooker-large.jpg"
                 className="col-12"
+                alt="Pressure Cooker"
               />
             </div>
           </Link>
@@ -27,6 +28,7 @@ function Blogs() {
                 preview="images/togglexworkflow-small.png"
                 image="images/togglexworkflow-large.png"
                 className="col-12"
+                alt="Toggle x Workflow"
               />
             </div>
           </Link>
@@ -39,6 +41,7 @@ function Blogs() {
                 preview="images/ets2-small.png"
                 image="images/ets2-large.png"
                 className="col-12"
+                alt="Euro Truck Simulator 2"
               />
             </div>
           </Link>

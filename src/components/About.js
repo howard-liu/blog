@@ -11,6 +11,7 @@ function About() {
           preview="images/think-small.jpg"
           image="images/think-large.jpg"
           className="about-image mr-0 mr-sm-3 mb-2 mb-sm-1"
+          alt="Howard"
         />
       </div>
       <p>
